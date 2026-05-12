@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "browser-sync start --server --files \"index.html, styles.css\" --no-notify"
+  },
+  "devDependencies": {
+    "browser-sync": "^3"
+  }
+}
