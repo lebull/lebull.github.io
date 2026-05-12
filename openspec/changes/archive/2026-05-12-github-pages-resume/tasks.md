@@ -36,7 +36,7 @@
 
 ## 5. Verification
 
-- [ ] 5.1 Open `index.html` in a browser and confirm all resume sections render correctly
-- [ ] 5.2 Use browser Print Preview (Chrome recommended) to verify margins, font sizes, and page breaks
-- [ ] 5.3 Confirm no section heading is orphaned at the bottom of a page in the print preview
-- [ ] 5.4 Push to `main` and confirm the GitHub Actions workflow runs successfully and the page is live at the GitHub Pages URL
+- [x] 5.1 Open `index.html` in a browser and confirm all resume sections render correctly
+- [x] 5.2 Use browser Print Preview (Chrome recommended) to verify margins, font sizes, and page breaks
+- [x] 5.3 Confirm no section heading is orphaned at the bottom of a page in the print preview
+- [x] 5.4 Push to `main` and confirm the GitHub Actions workflow runs successfully and the page is live at the GitHub Pages URL
