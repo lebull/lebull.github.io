@@ -29,7 +29,7 @@ Bachelor of Computer Science - Mississippi State University - 2014
 # Roles
 
 ## Cox Automotive - Senior Software Engineer
-*Austin, Texas (Remote) | February 2021 - Present*
+*Austin, Texas | February 2021 - Present*
 
 - Led frontend development of microfrontends that enabled support staff to diagnose issues across millions of vehicles and thousands of dealer accounts, reducing dealer onboarding time from a full day to under 10 minutes
 - Designed the microfrontend architecture for support tooling, defining the hierarchy of composed microfrontends and shared component contracts across the application
@@ -45,7 +45,9 @@ Bachelor of Computer Science - Mississippi State University - 2014
 ## Veseris - Web Developer
 *Austin, Texas | 2019 - 2021*
 
-- Led development for pestweb.com and internal websites, delivering blogging systems, content updates, and full site rebranding
+- Maintained pestweb.com, a pest control retailer serving over 40,000 customers, and internal company websites, keeping content and marketing pages up to date
+- Developed a blogging and podcast system for pestweb.com, enabling the marketing team to publish and manage content independently
+- Delivered a full site rebranding for pestweb.com, overhauling the visual design and front-end implementation
 - Identified and resolved accessibility issues across the pestweb.com redesign to achieve WCAG compliance
 - Designed and maintained relational databases powering marketing and advertising content
 
