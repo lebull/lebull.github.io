@@ -6,7 +6,7 @@
 
 ## Keeping Content in Sync
 
-Whenever skills are added, removed, or renamed in `source.md`, the corresponding skill entry in `index.html` must be updated to match.
+Whenever skills are added, removed, or renamed in `source.md`, the corresponding skill entry in `src/index.html` must be updated to match.
 
 ## Target Roles
 
