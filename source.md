@@ -24,7 +24,7 @@ Bachelor of Computer Science - Mississippi State University - 2014
 **Databases:** PostgreSQL, DynamoDB
 **Build & CI/CD:** Webpack, Vite, GitHub Actions, Docker
 **Cloud & Infrastructure:** AWS, Infrastructure as Code (IaC)
-**Other:** Git, Accessibility (WCAG), Agile/Scrum
+**Other:** Spec-Driven AI Development, Git, Accessibility (WCAG), Agile/Scrum
 
 # Roles
 
@@ -36,7 +36,7 @@ Bachelor of Computer Science - Mississippi State University - 2014
 - Spearheaded the design and implementation of a shared micro frontend architecture using StencilJS and Lit, adopted across four engineering teams
 - Defined and implemented unit, integration, and end-to-end testing strategies using Jest and Playwright, establishing quality standards and improving release safety across teams
 - Emerged as the go-to frontend voice on the release train, championing foundational practices including accessibility (WCAG) and responsive design to raise the quality bar across teams
-- Independently researched and evaluated AI-assisted development tools, identifying practical applications to improve team productivity ahead of any organizational mandate
+- Independently researched and evaluated AI-assisted development tools like speckit and openspec, identifying practical applications to improve team productivity ahead of any organizational mandate
 - Developed and maintained .NET microservices serving 10M+ vehicle listings to customers
 - Defined and maintained AWS cloud infrastructure as code, enabling scalable and reliable hosting for frontend services and microservices
 - Collaborated with product owners to define features and user stories, translating support staff needs into actionable engineering deliverables
