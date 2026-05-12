@@ -20,7 +20,7 @@ Bachelor of Computer Science - Mississippi State University - 2014
 
 **Frontend:** React, TypeScript, JavaScript, Micro Frontend Architecture, StencilJS, Lit, HTML/CSS
 **Testing:** Jest, Playwright, Unit Testing, Integration Testing, End-to-End Testing
-**Backend:** Node.js, .NET, C#, REST APIs
+**Backend:** Node.js, .NET, C#, REST APIs, Microservices
 **Databases:** PostgreSQL, DynamoDB
 **Build & CI/CD:** Webpack, Vite, GitHub Actions
 **Cloud & Infrastructure:** AWS, Infrastructure as Code (IaC)
@@ -31,7 +31,7 @@ Bachelor of Computer Science - Mississippi State University - 2014
 ## Cox Automotive - Senior Software Engineer
 *Austin, Texas (Remote) | February 2021 - Present*
 
-- Led frontend development of React-based internal tooling that enabled support staff to diagnose issues across millions of vehicles and thousands of dealer accounts, reducing dealer onboarding time from a full day to under 10 minutes
+- Led frontend development of microfrontends that enabled support staff to diagnose issues across millions of vehicles and thousands of dealer accounts, reducing dealer onboarding time from a full day to under 10 minutes
 - Designed the microfrontend architecture for support tooling, defining the hierarchy of composed microfrontends and shared component contracts across the application
 - Spearheaded the design and implementation of a shared micro frontend architecture using StencilJS and Lit, adopted across four engineering teams
 - Defined and implemented unit, integration, and end-to-end testing strategies using Jest and Playwright, establishing quality standards and improving release safety across teams
