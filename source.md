@@ -18,13 +18,13 @@ Bachelor of Computer Science - Mississippi State University - 2014
 
 # Skills
 
-**Frontend:** React, TypeScript, JavaScript, Micro Frontend Architecture, StencilJS, Lit, HTML/CSS
+**Frontend:** React, Microfrontend Architecture, Design Systems, StencilJS, Lit, TypeScript, JavaScript, HTML/CSS, Tailwind, Bootstrap
 **Testing:** Jest, Playwright, Unit Testing, Integration Testing, End-to-End Testing
 **Backend:** Node.js, .NET, C#, REST APIs, Microservices
 **Databases:** PostgreSQL, DynamoDB
-**Build & CI/CD:** Webpack, Vite, GitHub Actions
+**Build & CI/CD:** Webpack, Vite, GitHub Actions, Docker
 **Cloud & Infrastructure:** AWS, Infrastructure as Code (IaC)
-**Other:** Angular, SAP Fiori, Accessibility (WCAG), Agile/Scrum
+**Other:** Git, Accessibility (WCAG), Agile/Scrum
 
 # Roles
 
@@ -35,11 +35,13 @@ Bachelor of Computer Science - Mississippi State University - 2014
 - Designed the microfrontend architecture for support tooling, defining the hierarchy of composed microfrontends and shared component contracts across the application
 - Spearheaded the design and implementation of a shared micro frontend architecture using StencilJS and Lit, adopted across four engineering teams
 - Defined and implemented unit, integration, and end-to-end testing strategies using Jest and Playwright, establishing quality standards and improving release safety across teams
-- Emerged as the go-to frontend voice on the release train, championing foundational practices including accessibility (WCAG), responsive design, component reuse, and unidirectional data flow — building credibility with both team members and management over time to raise the overall quality bar
+- Emerged as the go-to frontend voice on the release train, championing foundational practices including accessibility (WCAG) and responsive design to raise the quality bar across teams
 - Developed and maintained .NET microservices serving 10M+ vehicle listings to customers
 - Defined and maintained AWS cloud infrastructure as code, enabling scalable and reliable hosting for frontend services and microservices
 - Collaborated with product owners to define features and user stories, translating support staff needs into actionable engineering deliverables
 - Partnered with designers to review wireframes and advocate for simplified UX and reduced workflow complexity
+- Reviewed and provided feedback on new releases of the internal design system, influencing component decisions and ensuring alignment with application needs
+- Identified and resolved frontend performance bottlenecks, improving application responsiveness and usability for support staff
 - Participated in on-call rotations to monitor, troubleshoot, and resolve production incidents, maintaining service reliability for millions of users
 
 ## Veseris - Web Developer
