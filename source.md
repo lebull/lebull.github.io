@@ -31,9 +31,9 @@ Bachelor of Computer Science - Mississippi State University - 2014
 ## Cox Automotive - Senior Software Engineer
 *Austin, Texas | February 2021 - Present*
 
-- Led frontend development of microfrontends that enabled support staff to diagnose issues across millions of vehicles and thousands of dealer accounts, reducing dealer onboarding time from a full day to under 10 minutes
-- Designed the microfrontend architecture for support tooling, defining the hierarchy of composed microfrontends and shared component contracts across the application
+- Designed and led development of a microfrontend architecture for support tooling, reducing onboarding time from a full day to under 10 minutes
 - Spearheaded the design and implementation of a shared micro frontend architecture using StencilJS and Lit, adopted across four engineering teams
+- Developed a React diagnostic application to help support representatives troubleshoot data issues across millions of vehicle records, improving support efficiency
 - Defined and implemented unit, integration, and end-to-end testing strategies using Jest and Playwright, establishing quality standards and improving release safety across teams
 - Emerged as the go-to frontend voice on the release train, championing foundational practices including accessibility (WCAG) and responsive design to raise the quality bar across teams
 - Independently researched and evaluated AI-assisted development tools like speckit and openspec, identifying practical applications to improve team productivity ahead of any organizational mandate
@@ -41,9 +41,9 @@ Bachelor of Computer Science - Mississippi State University - 2014
 - Defined and maintained AWS cloud infrastructure as code, enabling scalable and reliable hosting for frontend services and microservices
 - Collaborated with product owners to define features and user stories, translating support staff needs into actionable engineering deliverables
 - Partnered with designers to review wireframes and advocate for simplified UX and reduced workflow complexity
-- Reviewed and provided feedback on new releases of the internal design system, influencing component decisions and ensuring alignment with application needs
+- Beta tested and provided feedback for new major releases of the company's internal design system, influencing component decisions and ensuring alignment with developer's needs
 - Identified and resolved frontend performance bottlenecks, improving application responsiveness and usability for support staff
-- Participated in on-call rotations to monitor, troubleshoot, and resolve production incidents, maintaining service reliability for millions of users
+- Participated in on-call rotations to monitor, troubleshoot, and resolve production incidents, maintaining service reliability for thousands of dealerships
 
 ## Veseris - Web Developer
 *Austin, Texas | 2019 - 2021*
