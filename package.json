@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "browser-sync start --files \"index.html, styles.css\" --no-notify"
+    "dev": "browser-sync start --server --files \"index.html, styles.css\" --no-notify --open"
   },
   "devDependencies": {
     "browser-sync": "^3"

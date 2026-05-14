@@ -334,7 +334,7 @@ body {
     box-shadow: none;
     border-radius: 0;
     max-width: none;
-    min-height: 0;
+    min-height: calc(11in - 0.9in); /* letter height minus top+bottom @page margins */
   }
 
   /* Sidebar: light slate instead of dark navy */
