@@ -10,7 +10,12 @@
   --accent: #5da8d8;
 
   /* Page */
-  --page-bg: #dde2ea;
+  --page-bg: #d2d7da;
+
+  /* Parallax blobs */
+  --blob-a: rgba(191, 216, 226, 0.35);
+  --blob-b: rgba(217, 205, 176, 0.40);
+  --blob-c: rgba(235, 225, 208, 0.135);
 
   /* Sidebar */
   --sidebar-bg:      #1b2b3a;
@@ -54,6 +59,65 @@ body {
   background: var(--page-bg);
   min-height: 100vh;
   padding: 2.5rem 1.5rem;
+}
+
+/* ============================================================
+   PARALLAX BACKGROUND LAYER
+   ============================================================ */
+
+#bg-layer {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1;
+  overflow: hidden;
+}
+
+#bg-layer .blob {
+  position: absolute;
+  border-radius: 50%;
+  will-change: transform;
+}
+
+#bg-layer .blob-a {
+  width: 70vw;
+  height: 70vw;
+  background: var(--blob-a);
+  filter: blur(100px);
+  top: -15vw;
+  left: -10vw;
+}
+
+#bg-layer .blob-b {
+  width: 60vw;
+  height: 60vw;
+  background: var(--blob-b);
+  filter: blur(120px);
+  bottom: -10vw;
+  right: -10vw;
+}
+
+#bg-layer .blob-c {
+  width: 55vw;
+  height: 55vw;
+  background: var(--blob-c);
+  filter: blur(80px);
+  top: 5vw;
+  right: -5vw;
+}
+
+@media (max-width: 767px) {
+  #bg-layer {
+    display: none;
+  }
+}
+
+@media print {
+  #bg-layer {
+    display: none;
+  }
 }
 
 /* Two-column resume card */
