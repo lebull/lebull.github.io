@@ -31,8 +31,7 @@ Bachelor of Computer Science - Mississippi State University - 2014
 ## Cox Automotive - Senior Software Engineer
 *Austin, Texas | February 2021 - Present*
 
-- Designed and led development of a microfrontend architecture for support tooling, reducing onboarding time from a full day to under 10 minutes
-- Spearheaded the design and implementation of a shared micro frontend architecture using StencilJS and Lit, adopted across four engineering teams
+- Designed and led a shared microfrontend architecture using StencilJS and Lit, adopted across four engineering teams, reducing onboarding time from a full day to under 10 minutes
 - Developed a React diagnostic application to help support representatives troubleshoot data issues across millions of vehicle records, improving support efficiency
 - Defined and implemented unit, integration, and end-to-end testing strategies using Jest and Playwright, establishing quality standards and improving release safety across teams
 - Emerged as the go-to frontend voice on the release train, championing foundational practices including accessibility (WCAG) and responsive design to raise the quality bar across teams
