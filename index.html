@@ -136,23 +136,7 @@
         </article>
 
       </section>
-
     </main>
-
   </div>
-  <script>
-    if (window.matchMedia('(min-width: 768px)').matches) {
-      var blobA = document.querySelector('.blob-a');
-      var blobB = document.querySelector('.blob-b');
-      var blobC = document.querySelector('.blob-c');
-      window.addEventListener('mousemove', function(e) {
-        var dx = e.clientX - window.innerWidth / 2;
-        var dy = e.clientY - window.innerHeight / 2;
-        blobA.style.transform = 'translate(' + (dx * 0.025) + 'px, ' + (dy * 0.025) + 'px)';
-        blobB.style.transform = 'translate(' + (dx * 0.010) + 'px, ' + (dy * 0.010) + 'px)';
-        blobC.style.transform = 'translate(' + (dx * 0.016) + 'px, ' + (dy * 0.016) + 'px)';
-      });
-    }
-  </script>
 </body>
 </html>
